@@ -1,0 +1,16 @@
+{
+    "geode": "5.0.0",
+    "id": "drorentox.geometry_dash_plus",
+    "version": "1.0.0",
+    "name": "Geometry Dash Plus",
+    "developer": "DrOrenTox",
+    "description": "Adds custom Plus features to Geometry Dash.",
+    "dependencies": [
+        {
+            "id": "geode.loader",
+            "version": ">=5.0.0",
+            "importance": "required"
+        }
+    ]
+}
+
